@@ -12,16 +12,7 @@
 
 <p align="center">📌Myself Shrinivas Hunnur | Working as a Cloud Native Software Engineer @TCS 💻 | Crafting Digital Experiences, One Line of Code at a Time.  <br><br>📌Pursuing MTech in AI/ML at BITS Pilani | Fueling my passion to harmonize life with both circuits and chords 🎓🎶</p>
 
-###
 
-<h2 align="left">Statistics📉</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrinivashunnur08&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shrinivashunnur08&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
 
