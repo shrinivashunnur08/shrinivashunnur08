@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">📌Myself Shrinivas Hunnur | Working as a Cloud Native Software Engineer @TCS 💻 | Crafting Digital Experiences, One Line of Code at a Time.  <br><br>📌Pursuing MTech in AI/ML in BITS Pilani | Fueling my passion to harmonize life with both circuits and chords 🎓🎶</p>
+<p align="center">📌Myself Shrinivas Hunnur | Working as a Cloud Native Software Engineer @TCS 💻 | Crafting Digital Experiences, One Line of Code at a Time.  <br><br>📌Pursuing MTech in AI/ML at BITS Pilani | Fueling my passion to harmonize life with both circuits and chords 🎓🎶</p>
 
 ###
 
